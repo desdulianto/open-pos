@@ -1,11 +1,10 @@
 # Open Point of Sale (POS)
 
-
 Yet another open source web-based Point of Sale (POS) application.
 
 ====== Work in progress. ======
 
-## Features 
+## Application Features 
 _Coming soon..._
 
 
